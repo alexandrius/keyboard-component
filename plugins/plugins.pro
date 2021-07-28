@@ -28,6 +28,7 @@ SUBDIRS = \
     is \
     it \
     ja \
+    ka \
     lt \
     lv \
     mk \
